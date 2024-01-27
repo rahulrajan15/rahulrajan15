@@ -1,3 +1,5 @@
+![github-header-image (1)](https://github.com/rahulrajan15/Spotify-Data-Analysis-Project/assets/113009011/9f262ae2-3366-437d-bb06-79c61ef7de48)
+
 <h1 align="center">Hi 👋, I'm Rahul Rajan</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19020c997c25514d17d86f/614b7e249dbe1c69fad3a0f5_Analytics.gif">
