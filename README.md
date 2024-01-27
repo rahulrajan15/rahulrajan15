@@ -4,13 +4,13 @@
 <h3 align="center">A passionate data analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19020c997c25514d17d86f/614b7e249dbe1c69fad3a0f5_Analytics.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrajan15&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrajan15" /> </p>
-
 - 💬 Ask me about **Analytics, visualization, data cleaning, Tableau**
 
 - 📫 How to reach me **rahulrajan1519@gmail.com**
 
 - ⚡ Fun fact **I'm really cool person and I like to talk.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrajan15&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrajan15" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
